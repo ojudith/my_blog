@@ -11,10 +11,10 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
+        <h2
           style={{
             ...scale(1.5),
-            marginBottom: rhythm(1.5),
+            // marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
         >
@@ -28,7 +28,7 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
-        </h1>
+        </h2>
       )
     } else {
       header = (
@@ -53,19 +53,25 @@ class Layout extends React.Component {
     }
     return (
       <div
+        className=""
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(24),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          backgroundColor: "var(--bg)",
         }}
       >
-        <header>{header}</header>
-        <main>{children}</main>
+        {/* <header>{header}</header> */}
+        <main>{children}</main><br/><br/>
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          {/* © {new Date().getFullYear()}, all articles written by me, built with
+          {` `} */}
+          
+          <a href="https://www.github.com/ojudith">Github</a> {` `}
+          <a href="https://www.twitter.com/OseJudith">Twitter</a> {` `}
+          <a href="https://www.medium.com/ojudith">Medium</a> {` `}
+          <a href="https://www.linkedin.com">LinkedIn</a>
         </footer>
       </div>
     )

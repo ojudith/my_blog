@@ -1,6 +1,8 @@
 ---
 title: My Second Post!
+read: "2mins read"
 date: "2015-05-06T23:46:37.121Z"
+tag: "#foodie"
 ---
 
 Wow! I love blogging so much already.

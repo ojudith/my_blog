@@ -19,6 +19,17 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
         />
         <article>
+          <h3>
+            {siteTitle}
+            <span
+              style={{
+                float: `right`,
+                fontSize: `12px`,
+              }}
+            >
+              <Link to="/">Home</Link>
+            </span>
+          </h3>
           <header>
             <h1
               style={{
@@ -35,15 +46,19 @@ class BlogPostTemplate extends React.Component {
                 marginBottom: rhythm(1),
               }}
             >
-              {post.frontmatter.date}
+              {post.frontmatter.date}<small style={{
+                float:`right`,
+              }}>{post.frontmatter.read}</small>
             </p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <small>{post.frontmatter.tag}</small>
           <hr
             style={{
               marginBottom: rhythm(1),
             }}
           />
+
           <footer>
             <Bio />
           </footer>
@@ -95,8 +110,10 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        read
         date(formatString: "MMMM DD, YYYY")
         description
+        tag
       }
     }
   }

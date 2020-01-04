@@ -1,7 +1,9 @@
 ---
 title: Hello World
+read: "2mins read"
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
+tag: "#Learning"
 ---
 
 This is my first post on my new fake blog! How exciting!

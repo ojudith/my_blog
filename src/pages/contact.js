@@ -1,12 +1,11 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Header from "../components/header"
 
+import Header from "../components/header"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
-
 
 class BlogIndex extends React.Component {
   render() {
@@ -17,9 +16,7 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Header />
-
         <Layout location={this.props.location} title={siteTitle}>
-          
           <SEO title="All posts" />
 
           <Bio />
@@ -38,14 +35,6 @@ class BlogIndex extends React.Component {
                     </Link>
                   </h3>
                   <small>{node.frontmatter.date}</small>
-                  <small
-                    style={{
-                      float: `right`,
-                    }}
-                  >
-                    {node.frontmatter.read}
-                  </small>
-                  {/* add readlength */}
                 </header>
                 <section>
                   <p
@@ -53,10 +42,6 @@ class BlogIndex extends React.Component {
                       __html: node.frontmatter.description || node.excerpt,
                     }}
                   />
-                  {/* add tags */}
-                  <small className="bg-transparent">
-                    {node.frontmatter.tag}
-                  </small>
                 </section>
               </article>
             )
@@ -86,9 +71,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
-            read
             description
-            tag
           }
         }
       }

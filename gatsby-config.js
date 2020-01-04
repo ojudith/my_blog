@@ -3,11 +3,7 @@ module.exports = {
     title: `Junik`,
     author: `Judith Oiku`,
     description: `A personal blog to share my experience.`,
-<<<<<<< HEAD
     siteUrl: `https://judyblogbeta.netlify.com/`,
-=======
-    siteUrl: `https://judyblogbeta.netlify.com/.com/`,
->>>>>>> 728fbdb401857cb139ddfebcd56fd3d9816663ee
     social: {
       twitter: `OseJudith`,
     },

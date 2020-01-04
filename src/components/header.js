@@ -58,7 +58,7 @@ return (
           color: `white`,
           textDecoration: `none`,
           display: `inline`,
-          marginRight:`5px`,
+          marginRight: `5px`,
         }}
       >
         About Me
@@ -75,11 +75,23 @@ return (
             {theme === "dark" ? (
               <img
                 src={moon}
-                style={{ marginBottom: `0px`, }}
+                style={{
+                  marginBottom: `0px`,
+                  height: `25px`,
+                  marginTop: `5px`,
+                }}
                 alt="moon"
               />
             ) : (
-              <img src={sun} style={{ marginBottom: `0px` }} alt="sun" />
+              <img
+                src={sun}
+                style={{
+                  marginBottom: `0px`,
+                  height: `25px`,
+                  marginTop: `5px`,
+                }}
+                alt="sun"
+              />
             )}
           </label>
         )}

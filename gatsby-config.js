@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Junik Blog`,
+    title: `Junik`,
     author: `Judith Oiku`,
     description: `A personal blog to share my experience.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://judithblogbeta.netlify.com/`,
     social: {
       twitter: `OseJudith`,
     },

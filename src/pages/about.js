@@ -2,6 +2,7 @@ import React from "react"
 import Aboutme from "../components/Aboutme"
 import Edu from "../components/Edu"
 import Talk from "../components/Talks"
+import junik from "../images/junik.jpg"
 
 class About extends React.Component {
   render() {
@@ -12,7 +13,7 @@ class About extends React.Component {
         <section className="header">
           <div className="text-center">
             <div className="user-box">
-              <img src="img/junik.jpg" alt="junik "/>
+              <img src={junik} alt="junik "/>
                   <h1>Judith Oiku</h1>
               <p>
                 Full-stack Web Developer <br/> Content Strategist

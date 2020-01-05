@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: https://github.com/ojudith/oikujudith
+  name: git-gatway
+  branch: master
 
 media_folder: static/img
 public_folder: /img
@@ -11,7 +11,7 @@ collections:
     folder: "content/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-        fields:
+    fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Reading Time", name: "read", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime"}

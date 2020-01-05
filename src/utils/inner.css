@@ -45,6 +45,7 @@ body.dark {
 
 body a:hover {
     color: darkgoldenrod;
+    text-decoration: underline;
 }
 
 

@@ -43,6 +43,10 @@ body.dark {
 	color: var(--textLink);
 }
 
+body a:hover {
+    color: darkgoldenrod;
+}
+
 
 body.dark .main-body{
   --bg: white;
@@ -57,11 +61,9 @@ body.dark .main-body{
     color: #fff;
     border-left: 3px solid #fff;
  }
- /* body.dark .heading{ */
-   /* background: darkslategray;
+ body.dark .dark-text{
+
     color: #fff;
+    
  }
     
- body.dark .navbar-light .navbar-brand {
-    color: #fff;
- } */

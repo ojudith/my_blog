@@ -21,14 +21,15 @@ export default ({ children }) => {
 return (
   <header
     style={{
-      background: `#24292e`,
-      color: `#fff`,
+      // background: `#24292e`,
+      color: `#333`,
       marginBottom: `1.45rem`,
       width: `100%`,
       boxShadow: `0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2)`,
     }}
   >
     <div
+      className="dark-text"
       style={{
         margin: `0 auto`,
         maxWidth: 960,
@@ -55,13 +56,16 @@ return (
       <Link
         to="/about"
         style={{
-          color: `white`,
+          color: `#333`,
           textDecoration: `none`,
           display: `inline`,
           marginRight: `5px`,
+          border: `none !important`,
+          marginTop: `9px`,
+          boxShadow: `none`,
         }}
       >
-        About Me
+        <h6 className="dark-text">Portfolio</h6>
       </Link>
       <ThemeToggler>
         {({ theme, toggleTheme }) => (
@@ -77,8 +81,8 @@ return (
                 src={moon}
                 style={{
                   marginBottom: `0px`,
-                  height: `25px`,
-                  marginTop: `5px`,
+                  height: `20px`,
+                  marginTop: `7px`,
                 }}
                 alt="moon"
               />
@@ -87,8 +91,8 @@ return (
                 src={sun}
                 style={{
                   marginBottom: `0px`,
-                  height: `25px`,
-                  marginTop: `5px`,
+                  height: `20px`,
+                  marginTop: `7px`,
                 }}
                 alt="sun"
               />

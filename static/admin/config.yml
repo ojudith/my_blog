@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: https://github.com/ojudith/my_blog
+    name: github
+    repo: ojudith/my_blog
 
 media_folder: static/img
 public_folder: /img

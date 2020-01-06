@@ -4,8 +4,8 @@ class Talk extends React.Component {
   render() {
     return (
       <div className="talks">
-        <h3 className="mt-3">Talks</h3>
-        <p>
+        <h3 className="text-center mt-3">Talks</h3>
+        <p className="text-center">
           I also speak at tech events about web, and other related technology
         </p>
         <div className="container">
@@ -57,9 +57,7 @@ class Talk extends React.Component {
                   <h5 className="card-title">
                     Promoting Diversity & Inclusion in tech.
                   </h5>
-                  <p className="card-text">
-                    Devfest 2019, GDG Ikorodu
-                  </p>
+                  <p className="card-text">Devfest 2019, GDG Ikorodu</p>
                   <p className="card-text">
                     April 27, 2018{" "}
                     <span>

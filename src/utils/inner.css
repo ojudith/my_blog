@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Poppins|Righteous|Vollkorn&display=swap');
 body {
 	margin:0;
 	padding: 0;
@@ -12,11 +12,12 @@ body.light {
 	margin:0;
 	padding: 0;
 	font-family: sans-serif;
-  --bg: white;
+  --bg: #fff;
   --textNormal: #222;
   --textTitle: #222;
   --textLink: rgb(224, 164, 12);
   --hr: hsla(0, 0%, 0%, 0.2);
+  font-family: 'Poppins', sans-serif;
   
 
 }

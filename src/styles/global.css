@@ -8,6 +8,12 @@ body {
 .text-junik{
 	color: purple;
 }
+
+.text-top{
+	position: absolute;
+	left: 5%;
+	padding-top:3px;
+}
 /*-----------header css--------------*/
 .header{
 	height: 100vh;
@@ -133,21 +139,19 @@ font-size:14px;
 
 
 /*=========SKILLSET=========*/
-.skills-bar{
-	margin-bottom: 6px;
-	font-weight: 600;
+
+.skillset{
+	text-align: center;
+}
+.skillset ul li{
+	list-style: none;
 }
 
-.progress{
-	border-radius: 16px !important;
-	margin-bottom: 10px;
-}
 
-.progress-bar{
-	border-radius: 16px;
-	background:purple;
+.skills-icon{
+	width:30px;
+	height:50px;
 }
-
 /*=======RESUME=============*/
 .resume{
 	margin-top: -50px;
@@ -289,6 +293,11 @@ font-size:14px;
 .project-image{
 	height: 400px;
 	width:200px;
+}
+
+.project-contact{
+	height: 250px;
+	width:350px;
 }
 
 .project{

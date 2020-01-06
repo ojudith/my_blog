@@ -1,9 +1,11 @@
 import React from "react"
+import { Link } from "gatsby"
 import Aboutme from "../components/Aboutme"
 import Edu from "../components/Edu"
 import Talk from "../components/Talks"
 import Skills from "../components/Skills"
 import Projects from "../components/Projects"
+import Contact from "../components/Contact"
 import junik from "../images/junik.jpg"
 
 class About extends React.Component {
@@ -12,6 +14,8 @@ class About extends React.Component {
       <div class="main-body">
         <section className="header">
           <div className="text-center">
+            <Link to="/" className="text-top"
+            >Back to Blog</Link>
             <div className="user-box">
               <img src={junik} alt="junik " />
               <h1>Judith Oiku</h1>
@@ -33,6 +37,7 @@ class About extends React.Component {
         <Talk />
         <Skills />
         <Projects/>
+        <Contact/>
       </div>
     )
   }

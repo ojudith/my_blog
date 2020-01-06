@@ -283,6 +283,18 @@ font-size:14px;
 .text-slide{
 	float: right;
 }
+
+/* images-project */
+
+.project-image{
+	height: 400px;
+	width:200px;
+}
+
+.project{
+	margin: 0 auto;
+	text-align:center;
+}
 /*=========CONTACT===========*/
 .contact{
 	padding-top: 50px;

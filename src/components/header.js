@@ -23,6 +23,7 @@ return (
     style={{
       // background: `#24292e`,
       color: `#333`,
+      height: `70px`,
       marginBottom: `1.45rem`,
       width: `100%`,
       boxShadow: `0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2)`,
@@ -41,7 +42,7 @@ return (
         flexDirection: `row`,
       }}
     >
-      <h2 style={{ margin: 0, width: `60%` }}>
+      <h2 style={{ marginBottom: `15px`, width: `60%` }}>
         {/* <Link
           to="/"
           style={{
@@ -61,7 +62,7 @@ return (
           display: `inline`,
           marginRight: `5px`,
           border: `none !important`,
-          marginTop: `9px`,
+          marginBottom: `7px`,
           boxShadow: `none`,
         }}
       >
@@ -82,7 +83,7 @@ return (
                 style={{
                   marginBottom: `0px`,
                   height: `20px`,
-                  marginTop: `7px`,
+                  marginBottom: `7px`,
                 }}
                 alt="moon"
               />
@@ -92,7 +93,7 @@ return (
                 style={{
                   marginBottom: `0px`,
                   height: `20px`,
-                  marginTop: `7px`,
+                  marginBottom: `7px`,
                 }}
                 alt="sun"
               />

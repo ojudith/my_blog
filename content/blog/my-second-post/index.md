@@ -1,5 +1,5 @@
 ---
-title: How to deploying Laravel via shared Hosting !
+title: How to deploy a Laravel app via shared Hosting!
 read: "2mins read"
 date: "2015-05-06T23:46:37.121Z"
 tag: "#foodie"

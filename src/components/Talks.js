@@ -21,9 +21,13 @@ class Talk extends React.Component {
                     International Women's Day, WTM Ajah
                   </p>
                   <p className="card-text">
-                    April 27, 2018
+                    April 27, 2019
                     <span>
-                      <a href="#" className="text-slide text-danger">
+                      <a
+                        href="https://speakerdeck.com/judith13/web-accessibility-and-its-importance-in-web-development"
+                        target="_blank"
+                        className="text-slide text-danger"
+                      >
                         Slide
                       </a>
                     </span>
@@ -40,9 +44,13 @@ class Talk extends React.Component {
                     Kotlin for Everywhere, GDG Ikorodu
                   </p>
                   <p className="card-text">
-                    April 27, 2018
+                    August 31, 2019
                     <span>
-                      <a href="#" className="text-slide text-danger">
+                      <a
+                        href="https://speakerdeck.com/judith13/kotlin-for-developers"
+                        target="_blank"
+                        className="text-slide text-danger"
+                      >
                         Slide
                       </a>
                     </span>
@@ -59,9 +67,13 @@ class Talk extends React.Component {
                   </h5>
                   <p className="card-text">Devfest 2019, GDG Ikorodu</p>
                   <p className="card-text">
-                    April 27, 2018{" "}
+                    November 16, 2019{" "}
                     <span>
-                      <a href="#" className="text-slide text-danger">
+                      <a
+                        href="https://speakerdeck.com/judith13/promoting-a-culture-of-diversity-and-inclusion-in-tech"
+                        target="_blank"
+                        className="text-slide text-danger"
+                      >
                         Slide
                       </a>
                     </span>

@@ -64,15 +64,30 @@ class Layout extends React.Component {
         }}
       >
         {/* <header>{header}</header> */}
-        <main>{children}</main><br/><br/>
+        <main>{children}</main>
+        <br />
+        <br />
         <footer>
           {/* © {new Date().getFullYear()}, all articles written by me, built with
           {` `} */}
-          
-          <a href="https://www.github.com/ojudith">Github</a> {` `}
-          <a href="https://www.twitter.com/OseJudith">Twitter</a> {` `}
-          <a href="https://www.medium.com/@ojudith">Medium</a> {` `}
-          <a href="https://www.linkedin.com/in/oiku-judith-o-ba5307159">LinkedIn</a>
+          <a href="https://www.github.com/ojudith" target="_blank">
+            Github
+          </a>{" "}
+          {` `}
+          <a href="https://www.twitter.com/OseJudith" target="_blank">
+            Twitter
+          </a>{" "}
+          {` `}
+          <a href="https://www.medium.com/@ojudith" target="_blank">
+            Medium
+          </a>{" "}
+          {` `}
+          <a
+            href="https://www.linkedin.com/in/oiku-judith-o-ba5307159"
+            target="_blank"
+          >
+            LinkedIn
+          </a>
           {` `}
           <a href="mailto:oikujudith@gmail.com">Email</a>
         </footer>

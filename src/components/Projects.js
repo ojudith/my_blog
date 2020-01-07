@@ -42,13 +42,13 @@ function Projects() {
               <a href="https://technewsplus.netlify.com">view site</a>
             </p>
           </div>
-          <div className="col-md-3">
+          {/* <div className="col-md-3">
             <img src={project5} alt="junik " className="project-image" />
             <p>Personal blog built with GatsbyJs</p>
             <p>
               <a href="https://judyblogbeta.netlify.com">view site</a>
             </p>
-          </div>
+          </div> */}
           <div className="col-md-3">
             <img src={project6} alt="junik " className="project-image" />
             <p>Online Ticketing Support App built with Laravel</p>

@@ -14,11 +14,11 @@ function Contact() {
             <img src={judy} alt="junik " className="project-contact" />
             <p>
               Kindly contact me if you are looking for a software developer to
-              work with, in either frontend or backend projects. Available for  
+              work with, in either frontend or backend projects. <br/> Available for :
               <ul>
-                  <li>Full-time role (onsite or remote)</li>
-                  <li>Team collaboration</li>
-                  <li>contract or personal jobs</li>
+                  <li> - Full-time role (onsite or remote)</li>
+                  <li> - Team collaboration</li>
+                  <li> - Contract or Personal jobs</li>
               </ul>
                 
             </p>

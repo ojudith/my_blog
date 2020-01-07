@@ -3,7 +3,7 @@ title: HOW TO START PROGRAMMING
 read: 2 mins read
 date: 2020-01-07T17:03:42.675Z
 description: >-
-  Starting a career in tech. may seem difficult, but below are steps to help you
+  Starting a career in tech may seem difficult, but below are a few steps to help you
   get started
 tag: '#Programming #Technology #Coding #Programmer #ProgrammingLangauage'
 ---
@@ -15,14 +15,14 @@ Over the past few years, a lot of folks have become more interested in technolog
 
 So how do you get started:-
 
-**\#1 BE PASSIONATE:** Yeah! You have to be passionate about it because this goes a long way to help you through all the hurdles that comes along and also help you to become better. When it seems as thou you want to quit, the passion will overshadow it and keep you moving.
+**\#1 BE PASSIONATE :** Yeah! You have to be passionate about it because this goes a long way to help you through all the hurdles that comes along and also help you to become better. When it seems as thou you want to quit, the passion will overshadow it and keep you moving.
 
-**\#2 MAKE RESEARCH:** With easy access to internet and portability of your mobile phone, you can check out the different areas or careers in programming and draw a conclusion on what you want to venture into.
+**\#2 MAKE RESEARCH :** With easy access to internet and portability of your mobile phone, you can check out the different areas or careers in programming and draw a conclusion on what you want to venture into.
 
-**\#3 ENROLL FOR A COURSE:** After making your research, and knowing what area, you need to acquire the skill by enrolling in a training center or any of the online learning platforms like [udemy](https://www.udemy.com/), [khan academy](https://www.khanacademy.org/), [udacity](https://www.udacity.com/),etc., attend boot-camps or simply meet a friend who is knowledgeable in that skill.
+**\#3 ENROLL FOR A COURSE :** After making your research, and knowing what area, you need to acquire the skill by enrolling in a training center or any of the online learning platforms like [udemy](https://www.udemy.com/), [khan academy](https://www.khanacademy.org/), [udacity](https://www.udacity.com/),etc., attend boot-camps or simply meet a friend who is knowledgeable in that skill.
 
-**\#4 SELF-PRACTICE:** Apart from enrolling in a study center (physical or online), the larger part still falls on you, yeah! , you need to keep practicing, reading and expanding your knowledge. This helps you to be better at your skill.
+**\#4 SELF-PRACTICE :** Apart from enrolling in a study center (physical or online), the larger part still falls on you, yeah! , you need to keep practicing, reading and expanding your knowledge. This helps you to be better at your skill.
 
-**\#5 MEETUPS:** There are several local community groups that you can be part of, where you get to find other programmers at different phrases of their career, interact with them, share thoughts and also learn.
+**\#5 MEETUPS :** There are several local community groups that you can be part of, where you get to find other programmers at different phrases of their career, interact with them, share thoughts and also learn.
 
-I sincerely don’t want to make this lengthy, but I do hope, it can help you get started. You can follow me on t[witter](https://twitter.com/ojosaro) to get more gist about programming…
+I sincerely don’t want to make this lengthy, but I do hope, it can help you get started.

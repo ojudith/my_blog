@@ -14,12 +14,19 @@ function Contact() {
             <img src={judy} alt="junik " className="project-contact" />
             <p>
               Kindly contact me if you are looking for a software developer to
-              work with, in either frontend or backend projects. Available for contract or personal jobs
+              work with, in either frontend or backend projects. Available for  
+              <ul>
+                  <li>Full-time role (onsite or remote)</li>
+                  <li>Team collaboration</li>
+                  <li>contract or personal jobs</li>
+              </ul>
+                
             </p>
-            <p>you can also reach out to me for any speaking engagements, training in web designs and development</p>
-            <p><a href="mailto:oikujudith@gmail.com">Send a Email </a></p>
+            <p>you can also reach out to me for any speaking engagements, facilitator in web designs and development</p>
+            <p><a href="mailto:oikujudith@gmail.com">Send an E-mail </a></p>
           </div>
           <div className="col-md-6">
+            <h6>Send a Message</h6>
             <form action="" method="post">
               <div class="form-group">
                 <input
@@ -46,7 +53,8 @@ function Contact() {
                   name="message"
                   class="form-control"
                    id=""
-                  cols="30"
+                  placeholder="Enter your message"
+                  cols="10"
                   rows="10"
                 ></textarea>
               </div>

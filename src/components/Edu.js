@@ -15,9 +15,9 @@ class Edu extends React.Component {
                       <span>2019 -</span>Volunteer Community Experience
                     </h4>
                     <p>
-                      Co-organiser GDG Ikorodu
+                      - Co-organiser GDG Ikorodu
                       <br />
-                      WTM Ikorodu lead
+                      - WTM Ikorodu lead
                       <br />
                       <b>Duration</b> - [2019 - present]
                       <br />
@@ -28,11 +28,10 @@ class Edu extends React.Component {
                       <span>2018 - </span>Web Software Developer
                     </h4>
                     <p>
-                      Designing standard and W3C compliant website layout for
-                      clients using HTML5 and CSS. <br />
-                      Developing web applications using PHP/Laravel/MySQL and Javascript/Jquery Libraries.
+                      - Designing standard and W3C compliant website layout for clients using HTML5 and CSS. <br />
+                      - Developing web applications using PHP/- Laravel/MySQL and Javascript/Jquery Libraries.
                       <br />
-                        Building websites with JAMstack technology (Gatsby)             
+                        - Building websites with JAMstack technology (Gatsby)             
                       <br />
                       <b>Duration</b> - [2018-present]
                       <br />
@@ -44,9 +43,9 @@ class Edu extends React.Component {
                       <span>2017 -</span>Freelance web developer
                     </h4>
                     <p>
-                      Designing standard and W3C compliant website layout for
-                      clients using HTML5 and CSS. <br />
-                      Developing web applications using PHP/MySQL and
+                      - Designing standard and W3C compliant website layout for
+                      - clients using HTML5 and CSS. <br />
+                      - Developing web applications using PHP/MySQL and
                       Javascript/Jquery Libraries.
                       <br />
                       <b>Duration</b> - [2017-2018]
@@ -58,7 +57,7 @@ class Edu extends React.Component {
                       <span>2017 -</span>Teaching
                     </h4>
                     <p>
-                      Educating Senior Secondary School Students Mathematics .{" "}
+                      - Educating Senior Secondary School Students Mathematics .{" "}
                       <br />
                       <b>School</b> - Primary place of Assignment
                       <br />
@@ -84,7 +83,7 @@ class Edu extends React.Component {
                   </li>
                   <li>
                     <h4>
-                      <span>2017 -</span>Nysc
+                      <span>2016 -</span>Nysc
                     </h4>
                     <p>
                       One-year complusory National Youth Service Corp <br />

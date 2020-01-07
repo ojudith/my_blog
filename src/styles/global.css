@@ -344,6 +344,14 @@ text-align: justify;
 
 .contact p{
 	font-weight: lighter;
+	font-size:14px;
+}
+/* .contact ul{
+	text-align:center;
+} */
+
+.contact ul li{
+	list-style:none;
 }
 
 .contact .form-control{

@@ -91,9 +91,7 @@ body {
 .about p{
 	/* about */
 font-size:14px;
-
-	
-
+text-align: justify;
 }
 
 .profile-img {
@@ -312,35 +310,25 @@ font-size:14px;
 	background-size: cover;
 	background-attachment: fixed;
 	color: #fff;
-	
 
 }
-.contact .row{
-	padding: 30px 0;
-	font-size: 22px;
-
-}
-.contact .col-md-4 .fa{
-	padding: 10px;
-	font-size:40px;
-}
-
-.contact .btn{
+ .contact .btn{
 	padding: 10px 25px 10px 25px;
 	margin: 5px;
 	border-radius: 30px;
 	border:2px solid #fff;
 	background: transparent;
-}
+} 
 .contact .btn a{
 	text-decoration: none;
 	color: #fff;
 }
 
-.contact .col-md-4 a{
-	text-decoration: none;
-	color: #fff;
+.contact .form-control:focus {
+    border-bottom-color: #999;
+	background: transparent;
 }
+
 .contact .btn:focus{
 	box-shadow: none !important;
 }
@@ -353,6 +341,34 @@ font-size:14px;
 .contact .btn .fa{
 	margin-right: 5px;
 }
+
+.contact p{
+	font-weight: lighter;
+}
+
+.contact .form-control{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #f0f0f0;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 16px;
+    transition: all 0.4s ease-in-out;
+    color: #fff;
+
+}
+
+.contact  .form-control:focus{
+    border-bottom-color: #999; 
+    
+}
+
+.contact input{
+	height: 45px;
+	background:transparent;
+    
+}
+
 .footer{
 	background: #f8f9fa;
 
@@ -361,7 +377,7 @@ font-size:14px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-
+/*  */
 /*========SOCIALS==========*/
 .social-icons{
 	top: 50%;

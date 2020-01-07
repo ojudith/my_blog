@@ -15,7 +15,7 @@ class About extends React.Component {
         <section className="header">
           <div className="text-center">
             <Link to="/" className="text-top"
-            >Back to Blog</Link>
+            >view my Blog</Link>
             <div className="user-box">
               <img src={junik} alt="junik " />
               <h1>Judith Oiku</h1>

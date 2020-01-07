@@ -34,7 +34,8 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+             fontFamily: `Poppins, sans-serif`,
+            // fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
           }}
         >
@@ -70,8 +71,10 @@ class Layout extends React.Component {
           
           <a href="https://www.github.com/ojudith">Github</a> {` `}
           <a href="https://www.twitter.com/OseJudith">Twitter</a> {` `}
-          <a href="https://www.medium.com/ojudith">Medium</a> {` `}
-          <a href="https://www.linkedin.com">LinkedIn</a>
+          <a href="https://www.medium.com/@ojudith">Medium</a> {` `}
+          <a href="https://www.linkedin.com/in/oiku-judith-o-ba5307159">LinkedIn</a>
+          {` `}
+          <a href="mailto:oikujudith@gmail.com">Email</a>
         </footer>
       </div>
     )

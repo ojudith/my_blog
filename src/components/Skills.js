@@ -49,6 +49,8 @@ function Skills() {
                   Vue
                 </li>
                 <li>GatsbyJs</li>
+                <li>Bootstrap</li>
+                <li>JQuery</li>
                 <li>
                   PHP/{" "}
                   {/* <img
@@ -64,7 +66,7 @@ function Skills() {
                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OQBBBHCZRHwNhVzUE4jHkRtLNJYQ3HpcX_-IGOQoKio6TrvV&sNodeJs"
                     alt=""
                     className="skills-icon"
-                  /> NodeJS */}
+                  /> NodeJS */}NodeJS
                 </li>
               </ul>
             </div>
@@ -77,6 +79,7 @@ function Skills() {
                 <li>MySQL</li>
                 <li>MongoDB</li>
                 <li>Figma</li>
+                <li>Gulp</li>
               </ul>
             </div>
             <div className="col-md-4">

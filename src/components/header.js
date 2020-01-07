@@ -23,7 +23,7 @@ return (
     style={{
       // background: `#24292e`,
       color: `#333`,
-      height: `70px`,
+      height: `60px`,
       marginBottom: `1.45rem`,
       width: `100%`,
       boxShadow: `0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2)`,
@@ -42,7 +42,7 @@ return (
         flexDirection: `row`,
       }}
     >
-      <h2 style={{ marginBottom: `15px`, width: `60%` }}>
+      <h3 style={{ marginBottom: `15px`, width: `60%` }}>
         {/* <Link
           to="/"
           style={{
@@ -52,7 +52,7 @@ return (
           }}
         ></Link> */}
         {data.site.siteMetadata.title}
-      </h2>
+      </h3>
 
       <Link
         to="/about"

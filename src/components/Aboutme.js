@@ -7,14 +7,32 @@ class Aboutme extends React.Component {
     
     return (
       <div className="about">
-       <h3>MEET ME</h3>
-            <p class="">Hi there, Glad to have you here, am a Web Developer based in Lagos Nigeria. A Graduate from the University of Calabar with knowledge and skills in Internet related services.</p>
-            <p class=""> My flair for programming started in my undergraduate days where i explored different languages ranging from VisualBasic, Pascal, Matlab in addition to my background in Desktop Publishing Packages (Microsoft tools, CorelDraw, Adobe Photoshop and so on). Today to the glory of God I have gradually acquired more skills in front-end languages (HTML,CSS,JavaScript), back-end languages (PHP, nodejs), database, webflow (git,github,gulp,babel), frameworks (Bootstrap, reactjs) and so on...</p>
-            <p class="">Ever since then it has turned from not just a flair but into a profession leading to the birth of <b class="text-junik">Junik Infocreative Designs and Trading Company</b> in 2018.
-            </p>
-            
+        <h3>MEET ME</h3>
+        <p class="">
+          Judith Oiku, a graduate of Mathematics & Statistics from the
+          University of Calabar is a Software Developer based in Lagos, Nigeria.
+        </p>
+
+        <p class="">
+          As a Software Developer and Content Strategist, I pay attention to details , write clean and scalable codes with agile methodology and principles that can make a User Experience(UX) worth the while.
+        </p>
+
+        <p class="">
+          {" "}
+          My flair for programming started in my undergraduate days where I
+          explored different languages ranging from VisualBasic, Pascal, Matlab
+          in addition to my background in Desktop Publishing Packages (Microsoft tools, CorelDraw, Adobe Photoshop and so on). Today to the glory of God I have gradually acquired more skills in front-end, back-end and other related technologies.</p> 
+          
+        <p class="">
+          Ever since then it has turned from not just a flair but into a
+          profession leading to the birth of{" "}
+          <b class="text-junik">
+            Junik Infocreative Designs and Trading Company
+          </b>{" "}
+          in 2018 - a software developement company registered under the CAC to develop solutions to small & medium scale enterprises.
+        </p>
       </div>
-      )
+    )
   }
 }
 

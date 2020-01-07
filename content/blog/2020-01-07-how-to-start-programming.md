@@ -5,7 +5,7 @@ date: 2020-01-07T17:03:42.675Z
 description: >-
   Starting a career in tech. may seem difficult, but below are steps to help you
   get started
-tag: Programming Technology Coding Programmer Programming Langauage
+tag: '#Programming #Technology #Coding #Programmer #ProgrammingLangauage'
 ---
 ![Description Image](https://cdn-images-1.medium.com/max/800/1*yBizmpgEkD81jsbIEn0GNA.jpeg "image")
 

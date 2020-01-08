@@ -52,16 +52,16 @@ function Projects() {
           <div className="col-md-3">
             <img src={project6} alt="junik " className="project-image" />
             <p>Online Ticketing Support App built with Laravel</p>
-            <p>
+            {/* <p>
               <a href="">view site</a>
-            </p>
+            </p> */}
           </div>
           <div className="col-md-3">
             <img src={project7} alt="junik " className="project-image" />
             <p>Student Record Mgt. System built with PHP</p>
-            <p>
+            {/* <p>
               <a href="">view site</a>
-            </p>
+            </p> */}
           </div>
         </div>
       </div>

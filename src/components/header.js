@@ -81,7 +81,6 @@ return (
               <img
                 src={moon}
                 style={{
-                  marginBottom: `0px`,
                   height: `20px`,
                   marginBottom: `7px`,
                 }}
@@ -91,7 +90,6 @@ return (
               <img
                 src={sun}
                 style={{
-                  marginBottom: `0px`,
                   height: `20px`,
                   marginBottom: `7px`,
                 }}

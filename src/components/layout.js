@@ -70,21 +70,25 @@ class Layout extends React.Component {
         <footer>
           {/* © {new Date().getFullYear()}, all articles written by me, built with
           {` `} */}
-          <a href="https://www.github.com/ojudith" target="_blank">
+          <a
+            href="https://www.github.com/ojudith"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Github
           </a>{" "}
-          {` `}
-          <a href="https://www.twitter.com/OseJudith" target="_blank">
-            Twitter
-          </a>{" "}
-          {` `}
-          <a href="https://www.medium.com/@ojudith" target="_blank">
+          <a
+            href="https://www.medium.com/@ojudith"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Medium
           </a>{" "}
           {` `}
           <a
             href="https://www.linkedin.com/in/oiku-judith-o-ba5307159"
             target="_blank"
+            rel="noopener noreferrer"
           >
             LinkedIn
           </a>

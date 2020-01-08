@@ -26,6 +26,7 @@ class Talk extends React.Component {
                       <a
                         href="https://speakerdeck.com/judith13/web-accessibility-and-its-importance-in-web-development"
                         target="_blank"
+                        rel="noopener noreferrer"
                         className="text-slide text-danger"
                       >
                         Slide
@@ -49,6 +50,7 @@ class Talk extends React.Component {
                       <a
                         href="https://speakerdeck.com/judith13/kotlin-for-developers"
                         target="_blank"
+                        rel="noopener noreferrer"
                         className="text-slide text-danger"
                       >
                         Slide
@@ -72,6 +74,7 @@ class Talk extends React.Component {
                       <a
                         href="https://speakerdeck.com/judith13/promoting-a-culture-of-diversity-and-inclusion-in-tech"
                         target="_blank"
+                        rel="noopener noreferrer"
                         className="text-slide text-danger"
                       >
                         Slide

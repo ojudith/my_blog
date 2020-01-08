@@ -54,7 +54,11 @@ const Bio = () => {
         }}
       />
       <p>
-        Articles written with &#128155; by <br/> <strong>{author}</strong> <br />
+        Articles written with{" "}
+        <span role="img" >
+          &#128155;
+        </span>{" "}
+        by <br /> <strong>{author}</strong> <br />
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You can say hi on Twitter

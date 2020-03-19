@@ -32,12 +32,12 @@ function Contact() {
             </div>
             <div className="col-md-6">
               <h6>Send a Message</h6>
-              <form action="" method="post">
+              <form name="contact" method="post" data-netlify="true">
                 <div class="form-group">
                   <input
                     type="text"
                     name="name"
-                    id=""
+                    id="name"
                     class="form-control"
                     placeholder="Enter your name"
                     aria-describedby="helpId"
@@ -47,7 +47,7 @@ function Contact() {
                   <input
                     type="text"
                     name="email"
-                    id=""
+                    id="email"
                     class="form-control"
                     placeholder="Enter your email"
                     aria-describedby="helpId"
@@ -57,12 +57,16 @@ function Contact() {
                   <textarea
                     name="message"
                     class="form-control"
-                    id=""
+                    id="message"
                     placeholder="Enter your message"
                     cols="10"
                     rows="10"
                   ></textarea>
                 </div>
+                <div class="form-group">
+                  <div data-netlify-recaptcha="true"></div>
+                </div>
+                
                 <button type="submit" class="btn btn-primary">
                   Submit
                 </button>

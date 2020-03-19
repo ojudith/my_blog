@@ -1,6 +1,6 @@
 ---
 title: INTRODUCTION
-read: 1mins read
+read: 1 min read
 date: 2019-12-10T00:08:43.070Z
 description: 
 tag: '#intro'

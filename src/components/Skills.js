@@ -21,7 +21,7 @@ function Skills() {
                   React,Vue
                 </li>
                 <li>GatsbyJs</li>
-                <li>Bootstrap</li>
+                <li>Bootstrap/MaterializeCss</li>
                 <li>JQuery</li>
                 <li>PWA</li>
                 <li>

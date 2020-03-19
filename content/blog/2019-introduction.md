@@ -13,7 +13,7 @@ As you probably may have seen already on my index page, my name is **Judith Oiku
 
 The essence of this blog basically to share my learning or work experiences in different  front-end or back-end technologies and other related subject matter in form of articles.
 
-I do hope you find my articles resourceful, feel free to send a [DM](https://twiiter.com/OseJudith) if you have anything to share and also don't forget to share my articles to your friends :+1 :sparkles
+I do hope you find my articles resourceful, feel free to send a [DM](https://twiiter.com/OseJudith) if you have anything to share and also don't forget to share my articles to your friends :+1: :sparkles:
 
 cheers!!!
 

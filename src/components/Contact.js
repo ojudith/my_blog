@@ -32,7 +32,8 @@ function Contact() {
             </div>
             <div className="col-md-6">
               <h6>Send a Message</h6>
-              <form name="contact" method="post" data-netlify="true">
+              <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                <input type="hidden" name="bot-field"/>
                 <div class="form-group">
                   <input
                     type="text"
@@ -40,17 +41,17 @@ function Contact() {
                     id="name"
                     class="form-control"
                     placeholder="Enter your name"
-                    aria-describedby="helpId"
+                 
                   />
                 </div>
                 <div class="form-group">
                   <input
-                    type="text"
+                    type="email"
                     name="email"
                     id="email"
                     class="form-control"
-                    placeholder="Enter your email"
-                    aria-describedby="helpId"
+                    placeholder="youremail@email.com"
+                   
                   />
                 </div>
                 <div class="form-group">

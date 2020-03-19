@@ -20,7 +20,7 @@ class About extends React.Component {
               <img src={junik} alt="junik " />
               <h1>Judith Oiku</h1>
               <p>
-                Full-stack Web Developer <br /> Content Strategist
+                Full-stack Web Developer <br /> Technical Writer <br /> Content Strategist
               </p>
             </div>
           </div>

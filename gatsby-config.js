@@ -60,10 +60,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Personal Blog by Judith Oiku`,
-        short_name: `Junik`,
+        name: `Personal Blog by Judith (Junik) Oiku`,
+        short_name: `Judith Blog`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#f2f2f2`,
         theme_color: `#f2f2f2`,
         display: `standalone`,
         icon: `content/assets/gatsby-icon.png`,

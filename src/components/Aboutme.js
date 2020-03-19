@@ -14,7 +14,7 @@ class Aboutme extends React.Component {
         </p>
 
         <p class="">
-          As a Software Developer and Content Strategist, I pay attention to details , write clean and scalable codes with agile methodology and principles that can make a User Experience(UX) worth the while.
+          As a Software Developer, Technical Writer & Content Strategist, I pay attention to details , write clean and scalable codes with agile methodology and principles that can make a User Experience(UX) worth the while.
         </p>
 
         <p class="">

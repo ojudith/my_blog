@@ -6,6 +6,7 @@ import project4 from "../images/project4.png"
 import project5 from "../images/project5.png"
 import project6 from "../images/project6.png"
 import project7 from "../images/project7.png"
+import project8 from "../images/project8.png"
 
 function Projects() {
   return (
@@ -52,6 +53,13 @@ function Projects() {
           <div className="col-md-3">
             <img src={project6} alt="junik " className="project-image" />
             <p>Online Ticketing Support App built with Laravel</p>
+            {/* <p>
+              <a href="">view site</a>
+            </p> */}
+          </div>
+          <div className="col-md-3">
+            <img src={project8} alt="junik " className="project-image" />
+            <p>A PWA mini website built with Materialize CSS</p>
             {/* <p>
               <a href="">view site</a>
             </p> */}

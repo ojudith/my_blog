@@ -11,62 +11,24 @@ function Skills() {
               <ul>
                 <li>
                   {" "}
-                  {/* <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjgtK_O5sjIYLSF3ZyVrNfFd6V9x_2LYVZWKsAu8RufRrtD9H9&s"
-                    alt=""
-                    className="skills-icon"
-                  /> */}
-                  HTML5/{" "}
-                  {/* <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
-                    alt=""
-                    className="skills-icon"
-                  />{" "} */}
-                  CSS3
+                  
+                  HTML5/CSS3
                 </li>
                 <li>
-                  {" "}
-                  {/* <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
-                    alt=""
-                    className="skills-icon"
-                  /> */}
                   JavaScript/Es2015
                 </li>
                 <li>
-                  {" "}
-                  {/* <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
-                    alt=""
-                    className="skills-icon"
-                  /> */}
-                  React,{" "}
-                  {/* <img
-                    src="https://cdn.auth0.com/blog/react-js/react.png"
-                    alt=""
-                    className="skills-icon"
-                  />{" "} */}
-                  Vue
+                  React,Vue
                 </li>
                 <li>GatsbyJs</li>
                 <li>Bootstrap</li>
                 <li>JQuery</li>
+                <li>PWA</li>
                 <li>
-                  PHP/{" "}
-                  {/* <img
-                    src=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
-                    alt=""
-                    className="skills-icon"
-                  /> */}
-                  Laravel/Lumen
+                  PHP/Laravel/Lumen
                 </li>
                 <li>
-                  {" "}
-                  {/* <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OQBBBHCZRHwNhVzUE4jHkRtLNJYQ3HpcX_-IGOQoKio6TrvV&sNodeJs"
-                    alt=""
-                    className="skills-icon"
-                  /> NodeJS */}NodeJS
+                  NodeJS
                 </li>
               </ul>
             </div>

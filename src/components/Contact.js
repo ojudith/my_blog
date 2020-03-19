@@ -63,11 +63,7 @@ function Contact() {
                     cols="10"
                     rows="10"
                   ></textarea>
-                </div>
-                <div class="form-group">
-                  <div data-netlify-recaptcha="true"></div>
-                </div>
-                
+                </div>   
                 <button type="submit" class="btn btn-primary">
                   Submit
                 </button>

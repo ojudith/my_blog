@@ -3,7 +3,7 @@ title: INTRODUCTION
 read: 1 min read
 date: 2019-12-10T00:08:43.070Z
 description: 'Starting my blog '
-tag: '#intro'
+tag: '#intro #dev '
 ---
 Hi there, welcome to my blog. I am going to be introducing myself and the purpose of this blog in this blog post.
 

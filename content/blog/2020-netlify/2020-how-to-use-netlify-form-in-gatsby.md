@@ -63,11 +63,11 @@ Navigating the netlify dashboard ,  under **production deploys**, under the **Re
 ![form](form.png)
 
 - click submit
--  you should a confirmation success message pop-up redirecting you back to your website. 
+-  you should see a confirmation success message pop-up redirecting you back to your website. 
 
 ![succ-msg](succ-msg.png)
 
-- Go back to your netlify dashboard to get your details,  and also check your email address. 
+- Go back to your netlify dashboard to get your details,  and also check your email. 
 
 
 
@@ -80,4 +80,4 @@ Navigating the netlify dashboard ,  under **production deploys**, under the **Re
 ![mail](mail.JPG)
 
 
-That is it guys,  more information about netlify forms  can be found on their [documentation](https://docs.netlify.com)
+That is it everyone,  more information about netlify forms  can be found on their [documentation](https://docs.netlify.com)

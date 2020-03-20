@@ -1,6 +1,6 @@
 ---
 title: INTRODUCTION
-read: 1 min read
+read: 1 MIN READ
 date: 2019-12-10T00:08:43.070Z
 description: 'Starting my blog '
 tag: '#intro #dev '

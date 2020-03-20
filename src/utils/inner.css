@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Poppins|Righteous|Vollkorn&display=swap');
+
 body {
 	margin:0;
 	padding: 0;
@@ -37,6 +38,30 @@ body.dark {
   
 }
 
+/* section{
+  display:flex!important;
+  align-items: center;
+  flex-direction: column;
+  height:auto;
+} */
+
+/* .gatsby-resp-image-background-image{
+  display:flex!important;
+  align-items: center;
+justify-content: center;
+  height:auto;
+} */
+code,pre {
+   color: #e83e8c !important;
+}
+
+blockquote{
+  font-size: 0.9rem !important;
+}
+
+ul{
+  padding-left: 25px !important;
+}
  body.dark a{
 	color: var(--textLink);
 }

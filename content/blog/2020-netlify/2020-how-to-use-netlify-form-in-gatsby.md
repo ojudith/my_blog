@@ -2,8 +2,8 @@
 title: HOW TO SETUP A CONTACT FORM IN GATSBYJS USING NETLIFY FORMS 
 date: 2020-03-20
 read: 4 MIN READ
-description: 'using netlify forms in gatsby '
-tag: '#netlify #gatsby '
+description: 'using netlify forms in gatsby'
+tag: '#netlify #gatsby'
 ---
  
 Setting up a contact form in your website using netlify is pretty easy,  but there is a little variation when it comes to [Gatsbyjs](https://www.gatsbyjs.org/). 
@@ -17,8 +17,7 @@ There are couple of services you can use like [Getform](https://getform.io/),  [
 How then can we use netlify,  we can do this by adding a few attribute . Let's look at the sample code below,  assuming you have a contact form like so:
 
 
-``` html
-
+```html
 <form name ="myform" method="POST" data-netlify="true" netlify-honeypot="bot-field"/>
 <input type="hidden" name ="bot-field"/>
 <input type="text" name ="name" placeholder="my name"/> 
@@ -27,7 +26,6 @@ How then can we use netlify,  we can do this by adding a few attribute . Let's l
 <div data-netlify-captcha></div>
 <input type="submit" value ="Submit"/> 
 </form>
-
 ```
 adding the
 `data-netlify="true"`  `netlify_honeypot="bot-field"` 

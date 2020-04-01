@@ -94,37 +94,8 @@ body.dark .main-body{
     color: #fff;
     
  }
- 
- .gatsby-highlight-code-line {
-  background-color: #feb;
-  display: block;
-  margin-right: -1em;
-  margin-left: -1em;
-  padding-right: 1em;
-  padding-left: 0.75em;
-  border-left: 0.25em solid #f99;
-}
 
-.gatsby-highlight pre[class*="language-"] {
-  background-color: transparent;
-  margin: 0;
-  padding: 0;
-  overflow: initial;
-  float: left; /* 1 */
-  min-width: 100%; /* 2 */
-}
-
-
-/* Adjust the position of the line numbers */
-.gatsby-highlight pre[class*="language-"].line-numbers {
-  padding-left: 2.8em;
-}
-
-/**
- * If you only want to use line numbering
- */
-
-.gatsby-highlight {
+ .gatsby-highlight {
   position: relative;
   -webkit-overflow-scrolling: touch;
   background-color: #fdf6e3;
@@ -134,10 +105,15 @@ body.dark .main-body{
   overflow: auto;
 }
 
-.gatsby-highlight pre[class*="language-"].line-numbers {
-  padding: 0;
-  padding-left: 2.8em;
-  overflow: initial;
+ 
+ .gatsby-highlight-code-line {
+  background-color: #feb;
+  display: block;
+  margin-right: -1em;
+  margin-left: -1em;
+  padding-right: 1em;
+  padding-left: 0.75em;
+  border-left: 0.25em solid #f99;
 }
 
 .gatsby-highlight pre[class*="language-"]{
@@ -171,12 +147,20 @@ body.dark .main-body{
   color: #fff;
 }
 
-.gatsby-highlight pre[class="language-text"]::before {
-  content: "text";
+.gatsby-highlight pre[class="language-structure"]::before {
+  content: "structure";
   background: #bee41e;
   color: #fff;
 
 }
+
+.gatsby-highlight pre[class="language-text"]::before {
+  content: "text";
+  background: #005a9c;
+  color: #fff;
+
+}
+
 
 .gatsby-highlight pre[class="language-php"]::before {
   content: "php";
@@ -188,4 +172,10 @@ body.dark .main-body{
   content: "css";
   background: #ffca28;
   color: #fff;
+}
+
+.gatsby-highlight pre[class*="language-"].line-numbers {
+  padding: 0;
+  padding-left: 2.8em;
+  overflow: initial;
 }

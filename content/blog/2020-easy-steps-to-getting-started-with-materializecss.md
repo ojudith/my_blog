@@ -15,7 +15,7 @@ working with `materializeCSS` is pretty straightforward,  all you need do is to 
 
 After downloading,You'll notice that there are two sets of the files. The `min` means that the file is "compressed" to reduce load times. These minified files are usually used in production while it is better to use the unminified files during development.
 
-```structure
+```str
 | --css
 |     |-- materialize.css 
 |     |--materialize.min.css

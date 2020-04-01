@@ -147,7 +147,7 @@ body.dark .main-body{
   color: #fff;
 }
 
-.gatsby-highlight pre[class="language-structure"]::before {
+.gatsby-highlight pre[class="language-str"]::before {
   content: "structure";
   background: #bee41e;
   color: #fff;

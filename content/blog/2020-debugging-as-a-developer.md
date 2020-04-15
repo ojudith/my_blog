@@ -31,7 +31,7 @@ We have [IDE's](https://www.google.com/amp/s/stackify.com/top-integrated-develop
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/xohrnv3aaf1oqvol3aeq.PNG)
 
-# Other Ways Of Approaching Bugs
+### Other Ways Of Approaching Bugs
 
 So what are the best ways we can approach our computer program when there are **bugs**
 

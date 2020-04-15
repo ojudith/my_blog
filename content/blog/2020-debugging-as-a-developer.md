@@ -11,9 +11,9 @@ Developers are faced with one area of their coding journey that can be quite fru
 
 This is an inevitable phase in development, as you constantly encounter `bugs` in one way or the other; this may take days or weeks to debug... **Not to scare you,  especially if you are just starting out LOL**
 
-But [bugs](https://en.m.wikipedia.org/wiki/Software_bug) actually doesn't make you less of a `programmer`,  what is happening basically, is that, there is a missing piece in that puzzle you to to unravel or solve and  this in return make you better as a `developer`
+But [bugs](https://en.m.wikipedia.org/wiki/Software_bug) actually doesn't make you less of a `programmer`,  what is happening basically, is that, there is a missing piece in that puzzle you have to unravel or solve and  this in return make you better as a `developer`
 
-# How Are Bugs Introduced
+### How Are Bugs Introduced
 
 There are couple of ways `bugs` are introduced in our computer program which are as follows:
 
@@ -22,7 +22,7 @@ There are couple of ways `bugs` are introduced in our computer program which are
 * [syntax](https://en.m.wikipedia.org/wiki/Syntax_error) errors from programmers such as missing a closing parenthesis etc.
 * and lots more.
 
-# Tools For Debugging
+### Tools For Debugging
 
 The most readily available tool for `debugging` is the [Developer Debugger Tool](https://en.m.wikipedia.org/wiki/Debugger) which is available on most commonly used [browsers](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools).\
 ![debugger-tool](https://dev-to-uploads.s3.amazonaws.com/i/lncuhygbke35hyn9hoon.PNG)

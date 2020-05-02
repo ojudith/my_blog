@@ -78,11 +78,11 @@ class Layout extends React.Component {
             Github
           </a>{" "}
           <a
-            href="https://www.medium.com/@ojudith"
+            href="https://www.dev.to.com/@osejudith"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Medium
+           Dev.to
           </a>{" "}
           {` `}
           <a

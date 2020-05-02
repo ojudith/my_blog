@@ -78,7 +78,7 @@ class Layout extends React.Component {
             Github
           </a>{" "}
           <a
-            href="https://www.dev.to.com/@osejudith"
+            href="https://www.dev.to/@osejudith"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -94,6 +94,16 @@ class Layout extends React.Component {
           </a>
           {` `}
           <a href="mailto:oikujudith@gmail.com">Email</a>
+          <br/>
+          <br/>
+           © {new Date().getFullYear()}. All articles written by me, built with <a
+            href="https://www.gatsbyjs.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+           GatsbyJs
+          </a>
+          {` `}
         </footer>
       </div>
     )

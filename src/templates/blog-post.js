@@ -21,12 +21,13 @@ class BlogPostTemplate extends React.Component {
           
         />
         <article>
-          <h3>
+          <h3 className="title_blog">
             {siteTitle}
-            <span
+            <span 
               style={{
                 float: `right`,
                 fontSize: `12px`,
+                fontFamily: `Poppins, sans-serif`,
               }}
             >
               <Link to="/">Home</Link>

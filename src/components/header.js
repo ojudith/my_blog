@@ -42,7 +42,7 @@ return (
         flexDirection: `row`,
       }}
     >
-      <h3 style={{ marginBottom: `15px`, width: `60%` }}>
+      <h3  className ="title_blog" style={{ marginBottom: `15px`, width: `60%` }}>
         {/* <Link
           to="/"
           style={{

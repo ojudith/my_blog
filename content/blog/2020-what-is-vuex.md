@@ -5,11 +5,14 @@ date: 2020-11-23T08:21:55.013Z
 description: State management library in vuejs
 tag: '#vue #vuex'
 ---
-\#Introduction vuex is a [state management library](https://vuex.vuejs.org/guide/state.html#single-state-tree) for [vue](https://vuejs.org/) that makes it less cumbersome to share and distribute data within the vueJs application.
+### Introduction
+ vuex is a [state management library](https://vuex.vuejs.org/guide/state.html#single-state-tree) for [vue](https://vuejs.org/) that makes it less cumbersome to share and distribute data within the vueJs application.
 
-\#Prerequisites Basic knowledge of `Vue`is required
+### Prerequisites 
+Basic knowledge of `Vue`is required
 
-\#What next Without the `vuex`, we can simply distribute data between components using `props`, but as the application gets larger, managing data can be quite an handful.
+### What next 
+Without the `vuex`, we can simply distribute data between components using `props`, but as the application gets larger, managing data can be quite an handful.
 
 To solve this problem, we make use of the vuex, here we have a centralized store, and from that store our components can access our state directly.
 

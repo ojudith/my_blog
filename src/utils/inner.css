@@ -162,7 +162,7 @@ body.dark .main-body{
 }
 
 
-.gatsby-highlight pre[class="language-php"]::before {
+.gatsby-highlight pre[class="language-vue"]::before {
   content: "php";
   background: #1b5e20;
   color: #fff;

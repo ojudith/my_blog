@@ -36,7 +36,7 @@ A typical `store` folder looks like this
 
 **Store** : This holds out state in our application, and can be accessed using 
 
-```
+```vue
 this.$store
 ```
 

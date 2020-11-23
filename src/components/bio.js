@@ -32,7 +32,7 @@ const Bio = () => {
     }
   `)
 
-  const { author, social } = data.site.siteMetadata
+  const { author} = data.site.siteMetadata
   return (
     <div
       style={{
@@ -55,14 +55,14 @@ const Bio = () => {
       />
       <p>
         Articles written with{" "}
-        <span role="img" >
+        <span role="img" aria-label="emoji">
           &#128155;
         </span>{" "}
         by <br /> <strong>{author}</strong> <br />
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
+        {/* <a href={`https://twitter.com/${social.twitter}`}>
           You can say hi on Twitter
-        </a>
+        </a> */}
       </p>
     </div>
   )

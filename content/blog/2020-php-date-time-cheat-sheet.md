@@ -3,7 +3,7 @@ title: PHP Date/Time Cheat Sheet
 read: 2 MIN READ
 date: 2020-12-07T11:00:53.931Z
 description: The different ways we can format date/time in PHP.
-tag: PHP
+tag: '#PHP'
 ---
 PHP uses the standard UNIX timestamp, which is the number of seconds since the start of January 1, 1970.
 

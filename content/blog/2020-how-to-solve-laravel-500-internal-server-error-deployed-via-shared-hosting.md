@@ -2,7 +2,7 @@
 title: 'How to solve laravel 500 internal server error deployed via shared hosting '
 read: 1 MIN READ
 date: 2020-12-21T07:27:20.536Z
-description: laravel deployment shared hosting deployment error fix
+description: laravel deployment via shared hosting deployment error fix
 tag: '#laravel'
 ---
 [500 internal server error](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500) can be frustrating after deploying an application,  this was the case when I deployed a `laravel` application via shared hosting. 

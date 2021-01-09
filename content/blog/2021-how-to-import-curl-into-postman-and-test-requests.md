@@ -7,7 +7,7 @@ tag: '#curl #testing'
 ---
 ## What is Curl?
 
-[Curl](https://curl.se/) command line tool and library for transferring data with URLs.
+[Curl](https://curl.se/) is a command line tool and library for transferring data with URLs.
 
 ## Steps
 
@@ -16,9 +16,9 @@ The following steps can be used to test Curl in Postman:
 1. open postman.
 2. click **import**  tab on the top left side.
 3. select the raw **test tab**.
-4. paste the raw text, then click continue.
+4. paste the raw text, then click **continue**.
 5. confirm the **name** , **format**  and **Import as** 
-6. if step **5**. is correct, click import.
+6. if step **5**. is correct, click **import**.
 
 This automatically imports Curl into Postman.
 

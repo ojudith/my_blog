@@ -1,9 +1,9 @@
 ---
 title: How to Grow as a Developer
-read: '#programming #codenewbie'
+read: 1 MIN READ
 date: 2021-05-08T11:24:19.175Z
 description: programming tips
-tag: 1 MIN READ
+tag: '#programming #codenewbie'
 ---
 Growth is a paramount aspect of our lives, and as developers, we desire to grow in our code journey.
 

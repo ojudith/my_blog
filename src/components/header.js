@@ -54,20 +54,20 @@ return (
         {data.site.siteMetadata.title}
       </h3>
 
-      <Link
-        to="/about"
-        style={{
-          color: `#333`,
-          textDecoration: `none`,
-          display: `inline`,
-          marginRight: `5px`,
-          border: `none !important`,
-          marginBottom: `7px`,
-          boxShadow: `none`,
-        }}
-      >
-        <h6 className="dark-text">Portfolio</h6>
-      </Link>
+//       <Link
+//         to="/about"
+//         style={{
+//           color: `#333`,
+//           textDecoration: `none`,
+//           display: `inline`,
+//           marginRight: `5px`,
+//           border: `none !important`,
+//           marginBottom: `7px`,
+//           boxShadow: `none`,
+//         }}
+//       >
+//         <h6 className="dark-text">Portfolio</h6>
+//       </Link>
       <ThemeToggler>
         {({ theme, toggleTheme }) => (
           <label>
